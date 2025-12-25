@@ -6,6 +6,6 @@ function login() {
   if (u === "admin" && p === "1234") {
     window.location.href = "menu.html";
   } else {
-    msg.innerText = "Invalid username or password";
+    msg.innerText = "Username or password is incorrect!";
   }
 }
