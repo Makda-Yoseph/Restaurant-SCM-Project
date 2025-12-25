@@ -1,0 +1,5 @@
+[
+  {"id":1,"item":"Burger","quantity":1,"price":5.99},
+  {"id":2,"item":"Pizza","quantity":2,"price":16.98},
+  {"id":3,"item":"Coke","quantity":3,"price":5.97}
+]
